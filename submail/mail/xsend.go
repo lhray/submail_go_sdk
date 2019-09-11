@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"strings"
-	lib "trip/submail_go_sdk/submail/lib"
+	lib "submail_go_sdk/submail/lib"
 )
 
 type mailxsend struct {

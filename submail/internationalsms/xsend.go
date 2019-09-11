@@ -2,7 +2,7 @@ package internationalsms
 
 import (
 	"encoding/json"
-	lib "trip/submail_go_sdk/submail/lib"
+	lib "submail_go_sdk/submail/lib"
 )
 
 type xsend struct {
