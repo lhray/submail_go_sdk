@@ -1,7 +1,7 @@
 package sms
 
 import (
-	lib "submail_go_sdk/submail/lib"
+	lib "github.com/lhray/submail_go_sdk/submail/lib"
 )
 
 type send struct {

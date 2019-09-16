@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"strings"
-	lib "submail_go_sdk/submail/lib"
+
+	lib "github.com/lhray/submail_go_sdk/submail/lib"
 )
 
 type mailsend struct {
